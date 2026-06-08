@@ -41,8 +41,8 @@ Git · GitHub · VS Code · Linux
 ## Encuéntrame
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-monibe-4a5759?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monibe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-monibe.dev-b0c4b1?style=flat-square&logo=safari&logoColor=white)](https://monibe.es)
-[![Email](https://img.shields.io/badge/Email-hola@monibe.dev-edafb8?style=flat-square&logo=gmail&logoColor=white)](mailto:hola.monibe@gmail.es)
+[![Portfolio](https://img.shields.io/badge/Portfolio-monibe.es-b0c4b1?style=flat-square&logo=safari&logoColor=white)](https://monibe.es)
+[![Email](https://img.shields.io/badge/Email-hola.monibe@gmail.es-edafb8?style=flat-square&logo=gmail&logoColor=white)](mailto:hola.monibe@gmail.es)
 
 <br>
 
